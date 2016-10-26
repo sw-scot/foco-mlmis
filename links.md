@@ -18,3 +18,6 @@ http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduc
 
 ###Understanding LSTM Networks
 http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+
+https://larseidnes.com/2015/10/13/auto-generating-clickbait-with-recurrent-neural-networks/
