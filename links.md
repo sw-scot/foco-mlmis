@@ -22,6 +22,8 @@ http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 
 https://larseidnes.com/2015/10/13/auto-generating-clickbait-with-recurrent-neural-networks/
 
+---
+
 ###Math Stuff
 https://www.quora.com/Whats-the-difference-between-gradient-descent-and-stochastic-gradient-descent
 
