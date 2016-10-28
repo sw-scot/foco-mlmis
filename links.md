@@ -27,3 +27,5 @@ https://larseidnes.com/2015/10/13/auto-generating-clickbait-with-recurrent-neura
 ###Math Stuff
 https://www.quora.com/Whats-the-difference-between-gradient-descent-and-stochastic-gradient-descent
 
+```Here, the term "stochastic" comes from the fact that the gradient based on a single training sample is a "stochastic approximation" of the "true" cost gradient. Due to its stochastic nature, the path towards the global cost minimum is not "direct" as in GD, but may go "zig-zag" if we are visualizing the cost surface in a 2D space. However, it has been shown that SGD almost surely converges to the global cost minimum if the cost function is convex (or pseudo-convex)```
+
